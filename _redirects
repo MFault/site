@@ -1,0 +1,6 @@
+/(.*) /robots_%{HTTP_HOST}.txt
+/poa-dpo-expert /page37127660.html
+/poa-dpo-expert/ /page37127660.html
+/poa-vo-expert /page37152353.html
+/poa-vo-expert/ /page37152353.html
+/members/ ma_start.html
